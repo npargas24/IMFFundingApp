@@ -1,0 +1,6 @@
+@IMFFundingApp_HostAddress = http://localhost:5258
+
+GET {{IMFFundingApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
